@@ -1,6 +1,6 @@
 # Guillermo Ramirez Garcia CV
 
-[Email](cv@memogarcia.mx)
+[Email](mailto:git@memogarcia.mx)
 
 ## Experience
 
