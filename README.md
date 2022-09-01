@@ -1,7 +1,5 @@
 # Guillermo Ramirez Garcia CV
 
-[Email](mailto:git@memogarcia.mx)
-
 ## Experience
 
 ### Chief Solution Architect @ Hewlett-Packard Enterprise, Tokyo, Japan
@@ -9,6 +7,14 @@
 *February 2020 - Present*
 
 Driving solution development, pursuit, and delivery of cloud native computing and open cloud solutions based on OpenStack and Kubernetes technologies worldwide.
+
+Delivering custom solutions for platform modernization:
+
+* Automated upgrade of 14 data centers from Helion OpenStack to Red Hat OpenStack.
+* Designed and developed a PaaS + self service solution where applications run on Bare Metal, OpenStack and/or
+Kubernetes on several data centers following the GitOps philosophies and fully automated using GitLab and Argo. 
+
+Delivering PoCs for customers with Telecom and Infrastructure modernization requirements using OpenStack and Kubernetes.
 
 ### Senior DevOps Engineer @ KPN, Den Haag, The Netherlands 
 
@@ -56,53 +62,47 @@ Created [pratai](https://github.com/memogarcia?tab=repositories&q=pratai&type=&l
 ## Skills
 
 * Keywords
-	* Ansible,
-	* Docker,
-	* DevOps,
-	* Jenkins,
-	* Kubernetes, 
-	* Linux, 
-	* OpenStack, 
-	* OpenShift, 
+	* Ansible
+	* Docker
+	* DevOps
+	* Jenkins
+	* Kubernetes 
+	* Linux
+	* OpenStack 
+	* OpenShift 
 	* Python
 * Languages
 	* Spanish
 	* English
 	* Japanese (beginner)
 * Software Development
-	* Agile development,
-	* Backend development,
-	* C#,
-	* Cloud architectures, 
-	* Distributed architectures, 
-	* Microservices architectures, 
-	* OOP, 
-	* Python, 
-	* TDD.
+	* Agile development
+	* Backend development
+	* C#
+	* Cloud architectures
+	* Distributed architectures 
+	* Microservices architectures 
+	* OOP
+	* Python 
+	* TDD
 * Systems Administration
-	* Ansible,
-	* Automation, 
-	* Linux, 
-	* Monitoring, 
-	* Networking, 
-	* Security, 
-	* Storage, 
-	* Virtualization.
+	* Ansible
+	* Automation 
+	* Linux
+	* Monitoring 
+	* Networking 
+	* Security
+	* Storage 
+	* Virtualization
 * Databases
-	* Elasticsearch,
-	* MySQL,
-	* PostgreSQL.
+	* Elasticsearch
+	* MySQL
+	* PostgreSQL
 * IaaS
-	* AWS,
-	* Azure, 
-	* Google Cloud,
-	* OpenStack.
-* PaaS
-	*  Heroku,
-	* Mesosphere, 
-	* Stackato
+ 	* OpenStack.
+	* Kubernetes
 * Containers
-	* Docker,
-	* Kubernetes, 
-	* LXC, 
+	* Docker
+	* Kubernetes 
+	* LXC
 	* OpenShift
