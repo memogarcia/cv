@@ -52,7 +52,6 @@ Involved in the development of forj.io, a tool to define and configure  CI/CD pi
 
 Involved as an OpenStack consultant in the design and development of Orbiter, a monitoring as a service platform for OpenStack.
 
-
 ## Education
 
 * Bachelor of Software Engineering — Universidad de Colima | Colima, Mexico 2012
@@ -62,7 +61,6 @@ Involved as an OpenStack consultant in the design and development of Orbiter, a 
 * Red Hat OpenShift 4 Administrator — Red Hat | **200-127-835**
 * Certified Kubernetes Administrator — Linux Foundation | **LF-dhoi7ag9vu**
 * Certified Kubernetes Application Developer — Linux Foundation | **LF-35i4j6vtu5**
-
 
 ## Projects
 
