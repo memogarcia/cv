@@ -1,5 +1,15 @@
 # Guillermo Ramirez Garcia CV
 
+```json
+{
+	"roles": "Cloud Solution Architect | DevSecOps | SRE | Software developer",
+	"architectures": "Distributed systems | Microservices | Hybrid cloud | Anti-fragile architectures",
+	"philosophies": "Automation | GitOps",
+	"infrastrcuture": "Kubernetes | OpenStack",
+	"languages": "Python"
+}
+```
+
 ## Experience
 
 ### Chief Solution Architect @ Hewlett-Packard Enterprise, Tokyo, Japan
@@ -11,8 +21,7 @@ Driving solution development, pursuit, and delivery of cloud native computing an
 Delivering custom solutions for platform modernization:
 
 * Automated upgrade of 14 data centers from Helion OpenStack to Red Hat OpenStack.
-* Designed and developed a PaaS + self service solution where applications run on Bare Metal, OpenStack and/or
-Kubernetes on several data centers following the GitOps philosophies and fully automated using GitLab and Argo. 
+* Designed and developed a PaaS + self service solution where applications run on Bare Metal, OpenStack and/or Kubernetes on several data centers following the GitOps philosophies and fully automated using GitLab and Argo. 
 
 Delivering PoCs for customers with Telecom and Infrastructure modernization requirements using OpenStack and Kubernetes.
 
@@ -51,6 +60,8 @@ Involved as an OpenStack consultant in the design and development of Orbiter, a 
 * Red Hat OpenStack 10 Administrator — Red Hat | **180-217-523**
 * Red Hat OpenStack 13 Administrator — Red Hat | **200-127-835**
 * Red Hat OpenShift 4 Administrator — Red Hat | **200-127-835**
+* Certified Kubernetes Administrator — Linux Foundation | **LF-dhoi7ag9vu**
+* Certified Kubernetes Application Developer — Linux Foundation | **LF-35i4j6vtu5**
 
 
 ## Projects
