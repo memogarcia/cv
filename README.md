@@ -31,7 +31,7 @@ Delivering custom solutions for platform modernization:
 Delivering PoCs for customers with Telecom and Infrastructure modernization requirements using OpenStack and Kubernetes.
 
 
-### Senior DevOps Engineer @ KPN, Den Haag, The Netherlands 
+### Senior DevOps Engineer @ KPN, Den Haag, The Netherlands
 
 *February 2019 - February 2020*
 
@@ -82,10 +82,10 @@ Created [pratai](https://github.com/memogarcia?tab=repositories&q=pratai&type=&l
 	* Docker
 	* DevOps
 	* Jenkins
-	* Kubernetes 
+	* Kubernetes
 	* Linux
-	* OpenStack 
-	* OpenShift 
+	* OpenStack
+	* OpenShift
 	* Python
 * Languages
 	* Spanish
@@ -95,19 +95,19 @@ Created [pratai](https://github.com/memogarcia?tab=repositories&q=pratai&type=&l
 	* Agile development
 	* Backend development
 	* Cloud architectures
-	* Distributed architectures 
-  * Go
-	* Microservices architectures 
+	* Distributed architectures
+	* Go
+	* Microservices architectures
 	* OOP
-	* Python 
+	* Python
 * Systems Administration
 	* Ansible
-	* Automation 
+	* Automation
 	* Linux
-	* Monitoring 
-	* Networking 
+	* Monitoring
+	* Networking
 	* Security
-	* Storage 
+	* Storage
 	* Virtualization
 * Databases
 	* Elasticsearch
@@ -118,6 +118,6 @@ Created [pratai](https://github.com/memogarcia?tab=repositories&q=pratai&type=&l
 	* Kubernetes
 * Containers
 	* Docker
-	* Kubernetes 
+	* Kubernetes
 	* LXC
 	* OpenShift
