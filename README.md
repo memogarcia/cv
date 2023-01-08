@@ -73,7 +73,9 @@ Involved as an OpenStack consultant in the design and development of Orbiter, a 
 
 ### Pratai — Function as a Service for OpenStack
 
-Created [pratai](https://github.com/memogarcia?tab=repositories&q=pratai&type=&language=), an event-driven scheduler in python, docker and zeromq to provide function as a service functionality, similar to AWS lambda for OpenStack.
+* Created [pratai](https://github.com/memogarcia?tab=repositories&q=pratai&type=&language=), an event-driven scheduler in python, docker and zeromq to provide function as a service functionality, similar to AWS lambda for OpenStack.
+
+* Writing `Understanding Computer Network by Analogy`, a book to explain computer networks using cities as analogies and aimed for beginners, teachers and students.
 
 ## Skills
 
