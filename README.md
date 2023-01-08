@@ -2,34 +2,41 @@
 
 ```json
 {
-	"roles": "Cloud Solution Architect | DevSecOps | SRE | Software developer",
-	"architectures": "Distributed systems | Microservices | Hybrid cloud | Anti-fragile architectures",
-	"philosophies": "Automation | GitOps",
-	"infrastrcuture": "Kubernetes | OpenStack",
+	"roles": "Cloud Solution Architect | DevSecOps | SRE | Software Developer",
+	"architectures": "Distributed Systems | Microservices | Hybrid Cloud | Anti-Fragile Architectures",
+	"philosophies": "Automation | GitOps | DevOps",
+	"infrastrcuture": "Kubernetes | OpenStack | AWS",
 	"languages": "Python"
 }
 ```
 
 ## Experience
 
+### DevOps Engineer @ Woven Planet Holdings, Tokyo, Japan
+
+*February 2023 - PRESENT*
+
 ### Chief Solution Architect @ Hewlett-Packard Enterprise, Tokyo, Japan
 
-*February 2020 - Present*
+*February 2020 - January 2023*
 
 Driving solution development, pursuit, and delivery of cloud native computing and open cloud solutions based on OpenStack and Kubernetes technologies worldwide.
 
 Delivering custom solutions for platform modernization:
 
 * Automated upgrade of 14 data centers from Helion OpenStack to Red Hat OpenStack.
-* Designed and developed a PaaS + self service solution where applications run on Bare Metal, OpenStack and/or Kubernetes on several data centers following the GitOps philosophies and fully automated using GitLab and Argo. 
+* Designed and developed a PaaS + self-service solution where applications run on Bare Metal, OpenStack and/or Kubernetes on several data centers following the GitOps philosophies and fully automated using GitLab and Argo.
+* Lead a 14 people team to deliver end-to-end automation for workloads running on Kubernetes and OpenStack including disaster recovery, workload migration and chaos engineering.
 
 Delivering PoCs for customers with Telecom and Infrastructure modernization requirements using OpenStack and Kubernetes.
+
 
 ### Senior DevOps Engineer @ KPN, Den Haag, The Netherlands 
 
 *February 2019 - February 2020*
 
-Deployed and maintained Red Hat OpenStack telecom infrastructure for Virtual Network Functions (VNF) and developed tooling, monitoring and automation as a DevOps engineer to ensure our platforms are up-to-date and available according to our SLAs.
+Deployed and maintained Red Hat OpenStack telecom infrastructure to host Virtual Network Functions (VNF) and developed tooling, monitoring and automation as a DevOps engineer to ensure our platforms are up-to-date and available according to our SLAs.
+
 
 ### Systems/Software engineer & Cloud Consultant @ Hewlett-Packard Enterprise, Galway, Ireland
 
@@ -87,13 +94,12 @@ Created [pratai](https://github.com/memogarcia?tab=repositories&q=pratai&type=&l
 * Software Development
 	* Agile development
 	* Backend development
-	* C#
 	* Cloud architectures
 	* Distributed architectures 
+  * Go
 	* Microservices architectures 
 	* OOP
 	* Python 
-	* TDD
 * Systems Administration
 	* Ansible
 	* Automation 
@@ -108,7 +114,7 @@ Created [pratai](https://github.com/memogarcia?tab=repositories&q=pratai&type=&l
 	* MySQL
 	* PostgreSQL
 * IaaS
- 	* OpenStack.
+ 	* OpenStack
 	* Kubernetes
 * Containers
 	* Docker
